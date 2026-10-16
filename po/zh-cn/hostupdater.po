@@ -12,7 +12,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Host Updater"
-msgstr "自动化hosts管理工具"
+msgstr "hosts订阅更新管理"
 
 msgid "Basic Settings"
 msgstr "基本设置"
